@@ -1,0 +1,233 @@
+﻿Jenis Kelamin,Usia,Jenjang Pendidikan,Jabatan/posisi,Apakah Anda memiliki sertifikat profesi manajemen risiko?,Silakan pilih sektor di mana perusahaan Anda berada!,"Jika memilih Sektor Jasa Keuangan, pilih industri di mana perusahaan Anda berada","Jika memilih Sektor Riil, pilih industri di mana perusahaan Anda berada!",Apakah perusahaan Anda merupakan BUMN/BUMD?,Apakah perusahaan Anda merupakan PMA?,Apakah perusahaan Anda merupakan public-listed company?
+Perempuan,>35 s.d. 45 tahun,S1,"Manajemen puncak/pimpinan organisasi (contoh: Direksi/Dewan Komisaris/Anggota Komite Dekom, atau setara)",Tidak,Sektor Riil,,"Aktivitas Profesional, Ilmiah dan Teknis",Tidak,Tidak,Tidak
+Laki-laki,>35 s.d. 45 tahun,S2,"Manajemen puncak/pimpinan organisasi (contoh: Direksi/Dewan Komisaris/Anggota Komite Dekom, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Ya,Ya
+Laki-laki,>45 s.d. 55 tahun,S1,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,Informasi dan Komunikasi,Tidak,Ya,Ya
+Laki-laki,>45 s.d. 55 tahun,S2,"Manajemen puncak/pimpinan organisasi (contoh: Direksi/Dewan Komisaris/Anggota Komite Dekom, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Tidak
+Laki-laki,25 s.d. 35 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Ya,Tidak
+Perempuan,25 s.d. 35 tahun,S1,Staf non-manajerial,Ya,Sektor Jasa Keuangan,Asuransi,,Ya,Tidak,Tidak
+Laki-laki,>55 tahun,S3,Profesional independen,Ya,Sektor Jasa Keuangan,Asuransi,"Aktivitas Profesional, Ilmiah dan Teknis",Tidak,Ya,Tidak
+Laki-laki,>45 s.d. 55 tahun,S2,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Ya,Ya
+Perempuan,>35 s.d. 45 tahun,S2,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Riil,,Industri Pengolahan,Tidak,Ya,Tidak
+Laki-laki,>35 s.d. 45 tahun,S2,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Tidak
+Perempuan,>35 s.d. 45 tahun,D3,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Ya,Tidak
+Perempuan,>35 s.d. 45 tahun,S1,Staf non-manajerial,Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Ya,Tidak
+Laki-laki,>35 s.d. 45 tahun,S1,Staf non-manajerial,Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Ya,Tidak
+Laki-laki,>55 tahun,S1,"Manajemen puncak/pimpinan organisasi (contoh: Direksi/Dewan Komisaris/Anggota Komite Dekom, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Ya
+Laki-laki,25 s.d. 35 tahun,S1,Staf non-manajerial,Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Ya,Tidak
+Laki-laki,>45 s.d. 55 tahun,S2,"Manajemen puncak/pimpinan organisasi (contoh: Direksi/Dewan Komisaris/Anggota Komite Dekom, atau setara)",Tidak,Sektor Riil,,"Aktivitas Profesional, Ilmiah dan Teknis",Tidak,Tidak,Tidak
+Laki-laki,>45 s.d. 55 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Riil,,Informasi dan Komunikasi,Ya,Tidak,Ya
+Laki-laki,25 s.d. 35 tahun,S1,Staf non-manajerial,Ya,Sektor Riil,,Pertambangan dan Penggalian,Tidak,Tidak,Tidak
+Laki-laki,25 s.d. 35 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Tidak
+Laki-laki,25 s.d. 35 tahun,S2,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Riil,Lainnya,Pengangkutan dan Pergudangan,Ya,Tidak,Tidak
+Laki-laki,>35 s.d. 45 tahun,S1,Staf non-manajerial,Ya,Sektor Riil,Lainnya,Informasi dan Komunikasi,Ya,Tidak,Tidak
+Laki-laki,>35 s.d. 45 tahun,S2,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Jasa Keuangan,Bank,,Tidak,Tidak,Ya
+Laki-laki,>45 s.d. 55 tahun,S2,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Riil,,Industri Pengolahan,Ya,Tidak,Tidak
+Laki-laki,>45 s.d. 55 tahun,S2,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Riil,,"Pengadaan Listrik, Gas, Uap/Air Panas dan Udara Dingin",Tidak,Tidak,Tidak
+Laki-laki,>35 s.d. 45 tahun,S2,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Riil,,Industri Pengolahan,Ya,Tidak,Tidak
+Laki-laki,>45 s.d. 55 tahun,S1,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Riil,,"Pertanian, Kehutanan dan Perikanan",Ya,Tidak,Tidak
+Laki-laki,>35 s.d. 45 tahun,S2,Staf non-manajerial,Ya,Sektor Riil,,Pertambangan dan Penggalian,Tidak,Tidak,Ya
+Perempuan,>55 tahun,S2,"Manajemen puncak/pimpinan organisasi (contoh: Direksi/Dewan Komisaris/Anggota Komite Dekom, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Ya,Tidak,Tidak
+Laki-laki,25 s.d. 35 tahun,S2,Staf non-manajerial,Ya,Sektor Riil,,Pertambangan dan Penggalian,Ya,Tidak,Tidak
+Perempuan,>45 s.d. 55 tahun,S3,Profesional independen,Ya,Sektor Riil,,"Aktivitas Profesional, Ilmiah dan Teknis",Tidak,Tidak,Tidak
+Laki-laki,>45 s.d. 55 tahun,S2,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Tidak
+Laki-laki,>45 s.d. 55 tahun,S2,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Riil,,Penyediaan Akomodasi dan Penyediaan Makan Minum,Ya,Tidak,Tidak
+Laki-laki,>35 s.d. 45 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Tidak
+Laki-laki,>45 s.d. 55 tahun,S2,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Riil,,Aktivitas Kesehatan dan Kegiatan Sosial,Tidak,Tidak,Ya
+Laki-laki,>35 s.d. 45 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Riil,Lainnya,"Aktivitas Profesional, Ilmiah dan Teknis",Tidak,Tidak,Tidak
+Laki-laki,25 s.d. 35 tahun,S2,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Riil,,"Pengadaan Listrik, Gas, Uap/Air Panas dan Udara Dingin",Ya,Tidak,Tidak
+Perempuan,>35 s.d. 45 tahun,S1,Staf non-manajerial,Ya,Sektor Riil,,"Pengadaan Listrik, Gas, Uap/Air Panas dan Udara Dingin",Ya,Tidak,Tidak
+Laki-laki,25 s.d. 35 tahun,S2,Staf non-manajerial,Tidak,Sektor Riil,Lainnya,"Pengadaan Listrik, Gas, Uap/Air Panas dan Udara Dingin",Ya,Tidak,Tidak
+Laki-laki,25 s.d. 35 tahun,S1,Staf non-manajerial,Ya,Sektor Riil,,Pengangkutan dan Pergudangan,Ya,Ya,Ya
+Laki-laki,>35 s.d. 45 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Riil,,"Pengadaan Listrik, Gas, Uap/Air Panas dan Udara Dingin",Ya,Tidak,Tidak
+Laki-laki,>55 tahun,S3,Profesional independen,Ya,Sektor Riil,,"Aktivitas Profesional, Ilmiah dan Teknis",Tidak,Tidak,Tidak
+Laki-laki,>45 s.d. 55 tahun,S1,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Ya
+Laki-laki,25 s.d. 35 tahun,S1,Staf non-manajerial,Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Tidak
+Laki-laki,>45 s.d. 55 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Ya,Tidak
+Laki-laki,25 s.d. 35 tahun,S1,Staf non-manajerial,Tidak,Sektor Jasa Keuangan,Pasar Modal,,Tidak,Tidak,Tidak
+Laki-laki,>45 s.d. 55 tahun,S1,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Riil,Lainnya,"Pengadaan Listrik, Gas, Uap/Air Panas dan Udara Dingin",Ya,Tidak,Tidak
+Perempuan,25 s.d. 35 tahun,S1,Staf non-manajerial,Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Ya,Tidak
+Perempuan,>35 s.d. 45 tahun,S1,Staf non-manajerial,Tidak,Sektor Riil,,"Pertanian, Kehutanan dan Perikanan",Ya,Tidak,Tidak
+Laki-laki,>35 s.d. 45 tahun,S1,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Tidak
+Laki-laki,>45 s.d. 55 tahun,S2,Profesional independen,Ya,Sektor Jasa Keuangan,Bank,Informasi dan Komunikasi,Tidak,Tidak,Tidak
+Laki-laki,>35 s.d. 45 tahun,S2,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Riil,,Perdagangan Besar dan Eceran; Reparasi dan Perawatan Mobil dan Sepeda Motor,Tidak,Ya,Ya
+Laki-laki,>35 s.d. 45 tahun,S2,"Manajemen puncak/pimpinan organisasi (contoh: Direksi/Dewan Komisaris/Anggota Komite Dekom, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Ya,Tidak,Tidak
+Laki-laki,>55 tahun,S2,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Riil,,Pengangkutan dan Pergudangan,Ya,Tidak,Tidak
+Laki-laki,>45 s.d. 55 tahun,S2,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Ya,Tidak,Tidak
+Laki-laki,25 s.d. 35 tahun,S2,Staf non-manajerial,Ya,Sektor Riil,Lainnya,Informasi dan Komunikasi,Ya,Tidak,Tidak
+Laki-laki,25 s.d. 35 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Tidak,Sektor Jasa Keuangan,Asuransi,,Tidak,Ya,Tidak
+Laki-laki,>35 s.d. 45 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Ya,Tidak,Tidak
+Perempuan,25 s.d. 35 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Riil,,"Aktivitas Profesional, Ilmiah dan Teknis",Tidak,Tidak,Ya
+Laki-laki,25 s.d. 35 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Riil,,Pengangkutan dan Pergudangan,Tidak,Ya,Tidak
+Laki-laki,>35 s.d. 45 tahun,S2,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Tidak,Sektor Riil,,Aktivitas Kesehatan dan Kegiatan Sosial,Tidak,Tidak,Ya
+Laki-laki,>45 s.d. 55 tahun,S1,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Riil,,Informasi dan Komunikasi,Tidak,Tidak,Ya
+Laki-laki,25 s.d. 35 tahun,S1,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Tidak
+Laki-laki,25 s.d. 35 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Jasa Keuangan,Lainnya,,Tidak,Ya,Tidak
+Perempuan,>35 s.d. 45 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Riil,,Aktivitas Kesehatan dan Kegiatan Sosial,Tidak,Tidak,Tidak
+Laki-laki,>55 tahun,S2,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Jasa Keuangan,Lainnya,,Ya,Tidak,Ya
+Perempuan,>35 s.d. 45 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Riil,,Konstruksi,Tidak,Tidak,Tidak
+Laki-laki,>45 s.d. 55 tahun,S2,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Riil,,Perdagangan Besar dan Eceran; Reparasi dan Perawatan Mobil dan Sepeda Motor,Tidak,Tidak,Ya
+Laki-laki,>35 s.d. 45 tahun,S1,"Manajemen puncak/pimpinan organisasi (contoh: Direksi/Dewan Komisaris/Anggota Komite Dekom, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Tidak
+Laki-laki,>35 s.d. 45 tahun,S2,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Riil,,"Aktivitas Profesional, Ilmiah dan Teknis",Tidak,Tidak,Tidak
+Laki-laki,>55 tahun,S1,"Manajemen puncak/pimpinan organisasi (contoh: Direksi/Dewan Komisaris/Anggota Komite Dekom, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Ya,Tidak,Tidak
+Perempuan,>35 s.d. 45 tahun,S1,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Tidak,Sektor Jasa Keuangan,Asuransi,,Tidak,Ya,Ya
+Laki-laki,25 s.d. 35 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Riil,Lainnya,Aktivitas Kesehatan dan Kegiatan Sosial,Ya,Tidak,Tidak
+Laki-laki,>45 s.d. 55 tahun,S3,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Riil,,Aktivitas Kesehatan dan Kegiatan Sosial,Tidak,Tidak,Tidak
+Laki-laki,25 s.d. 35 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Jasa Keuangan,Bank,,Ya,Tidak,Ya
+Perempuan,>35 s.d. 45 tahun,S2,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Ya,Tidak
+Laki-laki,>35 s.d. 45 tahun,S2,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Riil,,"Pengadaan Listrik, Gas, Uap/Air Panas dan Udara Dingin",Ya,Tidak,Tidak
+Laki-laki,25 s.d. 35 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Jasa Keuangan,Bank,,Ya,Tidak,Ya
+Perempuan,>45 s.d. 55 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Ya,Tidak
+Laki-laki,>35 s.d. 45 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Jasa Keuangan,Pembiayaan,,Ya,Tidak,Tidak
+Laki-laki,>35 s.d. 45 tahun,S2,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Riil,,Pertambangan dan Penggalian,Tidak,Tidak,Ya
+Laki-laki,>55 tahun,S1,Profesional independen,Ya,Sektor Riil,,Pertambangan dan Penggalian,Tidak,Tidak,Tidak
+Perempuan,25 s.d. 35 tahun,S2,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Tidak,Sektor Riil,,Aktivitas Kesehatan dan Kegiatan Sosial,Tidak,Tidak,Ya
+Laki-laki,>55 tahun,S1,"Manajemen puncak/pimpinan organisasi (contoh: Direksi/Dewan Komisaris/Anggota Komite Dekom, atau setara)",Ya,Sektor Riil,,Konstruksi,Ya,Tidak,Tidak
+Laki-laki,25 s.d. 35 tahun,S2,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Riil,,"Pengadaan Listrik, Gas, Uap/Air Panas dan Udara Dingin",Ya,Tidak,Tidak
+Laki-laki,>45 s.d. 55 tahun,S2,Staf non-manajerial,Ya,Sektor Riil,,"Pengadaan Listrik, Gas, Uap/Air Panas dan Udara Dingin",Ya,Tidak,Tidak
+Perempuan,25 s.d. 35 tahun,S1,Staf non-manajerial,Tidak,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Tidak
+Perempuan,>45 s.d. 55 tahun,S2,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Tidak,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Tidak
+Laki-laki,25 s.d. 35 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Tidak
+Laki-laki,>35 s.d. 45 tahun,S2,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Riil,,Pengangkutan dan Pergudangan,Ya,Tidak,Tidak
+Perempuan,>35 s.d. 45 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Jasa Keuangan,Dapen,,Ya,Tidak,Tidak
+Laki-laki,>45 s.d. 55 tahun,S2,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Ya,Tidak,Tidak
+Laki-laki,>35 s.d. 45 tahun,S3,"Manajemen puncak/pimpinan organisasi (contoh: Direksi/Dewan Komisaris/Anggota Komite Dekom, atau setara)",Ya,Sektor Riil,,"Aktivitas Profesional, Ilmiah dan Teknis",Tidak,Tidak,Tidak
+Laki-laki,>45 s.d. 55 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Riil,,Pengangkutan dan Pergudangan,Ya,Tidak,Tidak
+Perempuan,>45 s.d. 55 tahun,S1,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Riil,Lainnya,Informasi dan Komunikasi,Tidak,Tidak,Ya
+Perempuan,>45 s.d. 55 tahun,S2,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Tidak
+Laki-laki,>35 s.d. 45 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Tidak
+Laki-laki,>45 s.d. 55 tahun,S1,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,Aktivitas Kesehatan dan Kegiatan Sosial,Tidak,Ya,Tidak
+Laki-laki,>55 tahun,S3,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Riil,,Aktivitas Kesehatan dan Kegiatan Sosial,Tidak,Tidak,Ya
+Perempuan,25 s.d. 35 tahun,S2,Profesional independen,Ya,Sektor Jasa Keuangan,Bank,,Ya,Tidak,Tidak
+Laki-laki,>55 tahun,S2,Profesional independen,Ya,Sektor Riil,,"Aktivitas Persewaan dan Sewa Guna Usaha Tanpa Hak Opsi, Ketenagakerjaan, Agen Perjalanan dan Penunjang Usaha Lainnya",Ya,Tidak,Tidak
+Laki-laki,25 s.d. 35 tahun,D3,Staf non-manajerial,Ya,Sektor Jasa Keuangan,Lainnya,,Tidak,Tidak,Tidak
+Laki-laki,25 s.d. 35 tahun,S1,Staf non-manajerial,Ya,Sektor Jasa Keuangan,Asuransi,,Ya,Tidak,Ya
+Laki-laki,25 s.d. 35 tahun,S1,Staf non-manajerial,Ya,Sektor Jasa Keuangan,Bank,,Tidak,Tidak,Tidak
+Laki-laki,>35 s.d. 45 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Riil,Lainnya,"Pengadaan Listrik, Gas, Uap/Air Panas dan Udara Dingin",Ya,Tidak,Ya
+Laki-laki,>35 s.d. 45 tahun,S1,Staf non-manajerial,Ya,Sektor Riil,,"Pengadaan Listrik, Gas, Uap/Air Panas dan Udara Dingin",Ya,Ya,Tidak
+Laki-laki,>45 s.d. 55 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Ya,Ya
+Laki-laki,>35 s.d. 45 tahun,S2,Staf non-manajerial,Ya,Sektor Riil,Lainnya,Pengangkutan dan Pergudangan,Ya,Ya,Ya
+Perempuan,>45 s.d. 55 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Tidak,Sektor Riil,,Pertambangan dan Penggalian,Tidak,Tidak,Tidak
+Perempuan,>35 s.d. 45 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Riil,,Real Estat,Ya,Tidak,Tidak
+Perempuan,25 s.d. 35 tahun,S1,Staf non-manajerial,Ya,Sektor Riil,,Informasi dan Komunikasi,Ya,Ya,Ya
+Perempuan,25 s.d. 35 tahun,S2,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Ya,Ya
+Laki-laki,>55 tahun,S2,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Riil,,Pengangkutan dan Pergudangan,Ya,Tidak,Tidak
+Laki-laki,>35 s.d. 45 tahun,S2,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Riil,,Pertambangan dan Penggalian,Ya,Tidak,Ya
+Perempuan,25 s.d. 35 tahun,S1,Staf non-manajerial,Tidak,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Ya
+Laki-laki,>55 tahun,S1,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Jasa Keuangan,Bank,,Tidak,Tidak,Tidak
+Laki-laki,25 s.d. 35 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Ya
+Perempuan,>45 s.d. 55 tahun,S2,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Tidak
+Laki-laki,>35 s.d. 45 tahun,S1,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Tidak
+Perempuan,>45 s.d. 55 tahun,S2,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Riil,Lainnya,Pertambangan dan Penggalian,Ya,Tidak,Ya
+Laki-laki,>45 s.d. 55 tahun,S3,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Riil,,"Aktivitas Profesional, Ilmiah dan Teknis",Ya,Tidak,Tidak
+Perempuan,>45 s.d. 55 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Tidak,Sektor Riil,,Aktivitas Kesehatan dan Kegiatan Sosial,Tidak,Tidak,Tidak
+Laki-laki,>45 s.d. 55 tahun,S2,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Ya,Ya,Tidak
+Laki-laki,>45 s.d. 55 tahun,S1,Staf non-manajerial,Tidak,Sektor Riil,,"Aktivitas Profesional, Ilmiah dan Teknis",Tidak,Ya,Tidak
+Laki-laki,25 s.d. 35 tahun,S1,Staf non-manajerial,Tidak,Sektor Riil,,Penyediaan Akomodasi dan Penyediaan Makan Minum,Tidak,Ya,Tidak
+Laki-laki,>45 s.d. 55 tahun,S2,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Ya,Tidak,Tidak
+Laki-laki,>45 s.d. 55 tahun,S1,"Manajemen puncak/pimpinan organisasi (contoh: Direksi/Dewan Komisaris/Anggota Komite Dekom, atau setara)",Ya,Sektor Jasa Keuangan,Dapen,,Tidak,Tidak,Tidak
+Laki-laki,>35 s.d. 45 tahun,S1,Staf non-manajerial,Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Tidak
+Perempuan,>45 s.d. 55 tahun,S2,"Manajemen puncak/pimpinan organisasi (contoh: Direksi/Dewan Komisaris/Anggota Komite Dekom, atau setara)",Tidak,Sektor Jasa Keuangan,Lainnya,,Tidak,Tidak,Tidak
+Laki-laki,>35 s.d. 45 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Ya,Tidak
+Laki-laki,25 s.d. 35 tahun,S1,Staf non-manajerial,Tidak,Sektor Jasa Keuangan,Asuransi,Informasi dan Komunikasi,Tidak,Tidak,Ya
+Laki-laki,>35 s.d. 45 tahun,D3,Staf non-manajerial,Ya,Sektor Riil,,"Pengadaan Listrik, Gas, Uap/Air Panas dan Udara Dingin",Ya,Tidak,Tidak
+Laki-laki,>45 s.d. 55 tahun,S1,"Manajemen puncak/pimpinan organisasi (contoh: Direksi/Dewan Komisaris/Anggota Komite Dekom, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Ya
+Laki-laki,>45 s.d. 55 tahun,S1,"Manajemen puncak/pimpinan organisasi (contoh: Direksi/Dewan Komisaris/Anggota Komite Dekom, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Ya
+Laki-laki,>35 s.d. 45 tahun,S2,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Ya,Ya
+Laki-laki,25 s.d. 35 tahun,S1,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Ya,Ya
+Laki-laki,>45 s.d. 55 tahun,S1,"Manajemen puncak/pimpinan organisasi (contoh: Direksi/Dewan Komisaris/Anggota Komite Dekom, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Ya,Ya
+Laki-laki,>45 s.d. 55 tahun,S1,"Manajemen puncak/pimpinan organisasi (contoh: Direksi/Dewan Komisaris/Anggota Komite Dekom, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Ya
+Laki-laki,>55 tahun,S1,"Manajemen puncak/pimpinan organisasi (contoh: Direksi/Dewan Komisaris/Anggota Komite Dekom, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Ya,Ya
+Perempuan,>45 s.d. 55 tahun,S1,"Manajemen puncak/pimpinan organisasi (contoh: Direksi/Dewan Komisaris/Anggota Komite Dekom, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Ya,Ya
+Laki-laki,>45 s.d. 55 tahun,S2,"Manajemen puncak/pimpinan organisasi (contoh: Direksi/Dewan Komisaris/Anggota Komite Dekom, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Ya,Ya
+Laki-laki,>35 s.d. 45 tahun,S1,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Ya,Tidak
+Laki-laki,>35 s.d. 45 tahun,S1,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Ya,Ya
+Laki-laki,>35 s.d. 45 tahun,S1,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Riil,,Konstruksi,Ya,Tidak,Ya
+Laki-laki,>35 s.d. 45 tahun,S2,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Tidak,Sektor Riil,,Real Estat,Tidak,Tidak,Tidak
+Perempuan,25 s.d. 35 tahun,S1,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Ya,Ya
+Laki-laki,25 s.d. 35 tahun,S1,Staf non-manajerial,Ya,Sektor Riil,,"Pengadaan Listrik, Gas, Uap/Air Panas dan Udara Dingin",Ya,Tidak,Tidak
+Perempuan,25 s.d. 35 tahun,S1,Staf non-manajerial,Tidak,Sektor Riil,Lainnya,Perdagangan Besar dan Eceran; Reparasi dan Perawatan Mobil dan Sepeda Motor,Tidak,Tidak,Ya
+Laki-laki,>35 s.d. 45 tahun,S1,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Ya,Ya
+Perempuan,>45 s.d. 55 tahun,S1,"Manajemen puncak/pimpinan organisasi (contoh: Direksi/Dewan Komisaris/Anggota Komite Dekom, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Tidak
+Laki-laki,>55 tahun,S2,"Manajemen puncak/pimpinan organisasi (contoh: Direksi/Dewan Komisaris/Anggota Komite Dekom, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Tidak
+Laki-laki,>55 tahun,S1,"Manajemen puncak/pimpinan organisasi (contoh: Direksi/Dewan Komisaris/Anggota Komite Dekom, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Tidak
+Perempuan,>45 s.d. 55 tahun,S2,Profesional independen,Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Tidak
+Laki-laki,>35 s.d. 45 tahun,S1,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Tidak
+Perempuan,25 s.d. 35 tahun,S1,Staf non-manajerial,Ya,Sektor Jasa Keuangan,Asuransi,"Aktivitas Profesional, Ilmiah dan Teknis",Tidak,Tidak,Tidak
+Laki-laki,25 s.d. 35 tahun,S1,Staf non-manajerial,Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Tidak
+Perempuan,>35 s.d. 45 tahun,S2,"Manajemen puncak/pimpinan organisasi (contoh: Direksi/Dewan Komisaris/Anggota Komite Dekom, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Tidak
+Perempuan,>45 s.d. 55 tahun,S1,"Manajemen puncak/pimpinan organisasi (contoh: Direksi/Dewan Komisaris/Anggota Komite Dekom, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Tidak
+Laki-laki,25 s.d. 35 tahun,S2,"Manajemen puncak/pimpinan organisasi (contoh: Direksi/Dewan Komisaris/Anggota Komite Dekom, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Tidak
+Perempuan,>45 s.d. 55 tahun,S2,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Tidak
+Perempuan,>35 s.d. 45 tahun,S2,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Riil,,Aktivitas Kesehatan dan Kegiatan Sosial,Tidak,Tidak,Tidak
+Laki-laki,>35 s.d. 45 tahun,S1,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Riil,,Konstruksi,Ya,Tidak,Ya
+Perempuan,>35 s.d. 45 tahun,S2,Staf non-manajerial,Ya,Sektor Riil,Lainnya,Informasi dan Komunikasi,Tidak,Tidak,Tidak
+Perempuan,>45 s.d. 55 tahun,S2,"Manajemen puncak/pimpinan organisasi (contoh: Direksi/Dewan Komisaris/Anggota Komite Dekom, atau setara)",Ya,Sektor Riil,,Konstruksi,Ya,Tidak,Tidak
+Laki-laki,>45 s.d. 55 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Riil,,Pengangkutan dan Pergudangan,Ya,Tidak,Tidak
+Laki-laki,>55 tahun,S2,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Jasa Keuangan,Pembiayaan,,Tidak,Tidak,Tidak
+Perempuan,>45 s.d. 55 tahun,S2,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Tidak
+Laki-laki,>35 s.d. 45 tahun,S1,"Manajemen puncak/pimpinan organisasi (contoh: Direksi/Dewan Komisaris/Anggota Komite Dekom, atau setara)",Ya,Sektor Riil,Lainnya,"Treatment Air, Treatment Air Limbah, Treatment dan Pemulihan Material Sampah, dan Aktivitas Remediasi",Ya,Tidak,Tidak
+Laki-laki,>55 tahun,S1,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Tidak
+Laki-laki,>35 s.d. 45 tahun,S2,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Ya,Tidak
+Laki-laki,>55 tahun,S2,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Ya
+Laki-laki,>45 s.d. 55 tahun,S2,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Riil,,Konstruksi,Ya,Tidak,Ya
+Laki-laki,>35 s.d. 45 tahun,S2,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Riil,,Industri Pengolahan,Tidak,Ya,Ya
+Laki-laki,>35 s.d. 45 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Tidak
+Laki-laki,25 s.d. 35 tahun,S1,Staf non-manajerial,Ya,Sektor Riil,,Pengangkutan dan Pergudangan,Ya,Tidak,Ya
+Laki-laki,>35 s.d. 45 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Tidak,Sektor Riil,,Industri Pengolahan,Tidak,Ya,Ya
+Perempuan,>35 s.d. 45 tahun,S2,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Riil,,"Pengadaan Listrik, Gas, Uap/Air Panas dan Udara Dingin",Ya,Tidak,Tidak
+Laki-laki,25 s.d. 35 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Riil,,"Aktivitas Profesional, Ilmiah dan Teknis",Tidak,Tidak,Tidak
+Perempuan,25 s.d. 35 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Ya,Tidak,Tidak
+Laki-laki,>45 s.d. 55 tahun,S2,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Jasa Keuangan,Lainnya,,Tidak,Ya,Tidak
+Laki-laki,>45 s.d. 55 tahun,S1,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Tidak
+Laki-laki,>35 s.d. 45 tahun,S2,Staf non-manajerial,Ya,Sektor Riil,,Pengangkutan dan Pergudangan,Ya,Tidak,Tidak
+Laki-laki,25 s.d. 35 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Ya,Ya,Tidak
+Perempuan,>35 s.d. 45 tahun,S2,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Jasa Keuangan,Lainnya,"Aktivitas Profesional, Ilmiah dan Teknis",Ya,Tidak,Ya
+Laki-laki,25 s.d. 35 tahun,S2,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Riil,,,Ya,Tidak,Ya
+Laki-laki,>35 s.d. 45 tahun,S2,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Riil,,,Tidak,Ya,Tidak
+Laki-laki,>45 s.d. 55 tahun,S1,Staf non-manajerial,Ya,Sektor Jasa Keuangan,Asuransi,,Ya,Tidak,Tidak
+Laki-laki,25 s.d. 35 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Tidak,Sektor Riil,,Informasi dan Komunikasi,Ya,Tidak,Tidak
+Laki-laki,25 s.d. 35 tahun,S1,Staf non-manajerial,Tidak,Sektor Jasa Keuangan,Pasar Modal,,Tidak,Tidak,Tidak
+Laki-laki,25 s.d. 35 tahun,S1,Staf non-manajerial,Ya,Sektor Riil,Lainnya,Pengangkutan dan Pergudangan,Ya,Tidak,Tidak
+Perempuan,>35 s.d. 45 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Tidak,Sektor Jasa Keuangan,Bank,Informasi dan Komunikasi,Ya,Tidak,Ya
+Laki-laki,25 s.d. 35 tahun,S2,Staf non-manajerial,Ya,Sektor Riil,,"Pengadaan Listrik, Gas, Uap/Air Panas dan Udara Dingin",Ya,Tidak,Tidak
+Laki-laki,25 s.d. 35 tahun,S2,Staf non-manajerial,Ya,Sektor Riil,,Industri Pengolahan,Ya,Tidak,Tidak
+Laki-laki,25 s.d. 35 tahun,S1,Staf non-manajerial,Tidak,Sektor Riil,,Pertambangan dan Penggalian,Ya,Tidak,Tidak
+Laki-laki,25 s.d. 35 tahun,S1,Staf non-manajerial,Tidak,Sektor Jasa Keuangan,Pasar Modal,,Tidak,Tidak,Tidak
+Perempuan,25 s.d. 35 tahun,S1,Staf non-manajerial,Tidak,Sektor Riil,,Perdagangan Besar dan Eceran; Reparasi dan Perawatan Mobil dan Sepeda Motor,Ya,Tidak,Tidak
+Perempuan,25 s.d. 35 tahun,S2,Staf non-manajerial,Tidak,Sektor Jasa Keuangan,Pasar Modal,,Tidak,Tidak,Tidak
+Laki-laki,25 s.d. 35 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Tidak,Sektor Riil,,Konstruksi,Ya,Tidak,Tidak
+Laki-laki,>45 s.d. 55 tahun,S2,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Riil,,Pertambangan dan Penggalian,Ya,Tidak,Tidak
+Perempuan,25 s.d. 35 tahun,S1,Staf non-manajerial,Tidak,Sektor Jasa Keuangan,Lainnya,,Tidak,Tidak,Tidak
+Perempuan,>35 s.d. 45 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Tidak,Sektor Riil,,Informasi dan Komunikasi,Ya,Tidak,Tidak
+Laki-laki,25 s.d. 35 tahun,S1,Staf non-manajerial,Tidak,Sektor Jasa Keuangan,Pasar Modal,,Ya,Tidak,Tidak
+Laki-laki,>45 s.d. 55 tahun,S2,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Riil,Lainnya,Pertambangan dan Penggalian,Ya,Tidak,Tidak
+Laki-laki,>35 s.d. 45 tahun,S2,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Tidak,Sektor Jasa Keuangan,Bank,,Tidak,Tidak,Tidak
+Laki-laki,>35 s.d. 45 tahun,S2,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Riil,,"Treatment Air, Treatment Air Limbah, Treatment dan Pemulihan Material Sampah, dan Aktivitas Remediasi",Ya,Tidak,Tidak
+Perempuan,>35 s.d. 45 tahun,S2,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Tidak,Sektor Jasa Keuangan,Bank,,Tidak,Tidak,Tidak
+Laki-laki,25 s.d. 35 tahun,S1,Staf non-manajerial,Tidak,Sektor Riil,,Pengangkutan dan Pergudangan,Ya,Tidak,Tidak
+Laki-laki,25 s.d. 35 tahun,S1,Staf non-manajerial,Tidak,Sektor Riil,,Pengangkutan dan Pergudangan,Ya,Tidak,Tidak
+Laki-laki,25 s.d. 35 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Riil,,Pertambangan dan Penggalian,Tidak,Tidak,Tidak
+Laki-laki,>45 s.d. 55 tahun,S1,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Tidak,Sektor Riil,,Perdagangan Besar dan Eceran; Reparasi dan Perawatan Mobil dan Sepeda Motor,Tidak,Tidak,Tidak
+Laki-laki,>35 s.d. 45 tahun,S2,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Jasa Keuangan,Pembiayaan,,Tidak,Ya,Tidak
+Laki-laki,>45 s.d. 55 tahun,S2,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Riil,,Pengangkutan dan Pergudangan,Ya,Tidak,Tidak
+Laki-laki,>45 s.d. 55 tahun,S2,"Manajemen puncak/pimpinan organisasi (contoh: Direksi/Dewan Komisaris/Anggota Komite Dekom, atau setara)",Ya,Sektor Riil,,Perdagangan Besar dan Eceran; Reparasi dan Perawatan Mobil dan Sepeda Motor,Tidak,Tidak,Tidak
+Laki-laki,>55 tahun,S3,Profesional independen,Ya,Sektor Jasa Keuangan,Bank,,Ya,Tidak,Ya
+Laki-laki,>35 s.d. 45 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Ya,Tidak,Tidak
+Laki-laki,>35 s.d. 45 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Riil,Lainnya,Pengangkutan dan Pergudangan,Ya,Tidak,Tidak
+Perempuan,25 s.d. 35 tahun,S1,Staf non-manajerial,Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Tidak
+Perempuan,>35 s.d. 45 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Riil,,"Pengadaan Listrik, Gas, Uap/Air Panas dan Udara Dingin",Ya,Tidak,Tidak
+Laki-laki,25 s.d. 35 tahun,S1,Staf non-manajerial,Ya,Sektor Riil,Lainnya,Perdagangan Besar dan Eceran; Reparasi dan Perawatan Mobil dan Sepeda Motor,Tidak,Tidak,Tidak
+Perempuan,>45 s.d. 55 tahun,S2,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Tidak,Tidak
+Laki-laki,>45 s.d. 55 tahun,S3,"Manajemen puncak/pimpinan organisasi (contoh: Direksi/Dewan Komisaris/Anggota Komite Dekom, atau setara)",Ya,Sektor Riil,Lainnya,"Aktivitas Persewaan dan Sewa Guna Usaha Tanpa Hak Opsi, Ketenagakerjaan, Agen Perjalanan dan Penunjang Usaha Lainnya",Ya,Tidak,Tidak
+Perempuan,>35 s.d. 45 tahun,S2,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Riil,,,Tidak,Tidak,Tidak
+Perempuan,>35 s.d. 45 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Riil,,"Pengadaan Listrik, Gas, Uap/Air Panas dan Udara Dingin",Tidak,Tidak,Tidak
+Perempuan,>45 s.d. 55 tahun,S2,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,Perdagangan Besar dan Eceran; Reparasi dan Perawatan Mobil dan Sepeda Motor,Tidak,Ya,Ya
+Laki-laki,>35 s.d. 45 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Ya,Ya
+Laki-laki,>45 s.d. 55 tahun,S2,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Tidak,Ya,Tidak
+Laki-laki,>45 s.d. 55 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Riil,,Pertambangan dan Penggalian,Ya,Tidak,Ya
+Laki-laki,>45 s.d. 55 tahun,S2,"Manajemen puncak/pimpinan organisasi (contoh: Direksi/Dewan Komisaris/Anggota Komite Dekom, atau setara)",Ya,Sektor Jasa Keuangan,Asuransi,,Ya,Tidak,Ya
+Laki-laki,>55 tahun,S2,"Manajemen puncak/pimpinan organisasi (contoh: Direksi/Dewan Komisaris/Anggota Komite Dekom, atau setara)",Ya,Sektor Riil,,"Pengadaan Listrik, Gas, Uap/Air Panas dan Udara Dingin",Ya,Tidak,Tidak
+Laki-laki,25 s.d. 35 tahun,S1,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Jasa Keuangan,Pembiayaan,,Tidak,Ya,Tidak
+Laki-laki,>45 s.d. 55 tahun,S1,"Manajemen senior organisasi (contoh: GM/Kadiv/EVP/VP/Group Head/Pimwil, atau setara)",Ya,Sektor Riil,,"Pengadaan Listrik, Gas, Uap/Air Panas dan Udara Dingin",Ya,Tidak,Tidak
+Laki-laki,25 s.d. 35 tahun,S2,"Manajemen menengah/lini organisasi (contoh: Manajer/Kabag/Pimca, atau setara)",Ya,Sektor Riil,,Pertambangan dan Penggalian,Tidak,Ya,Tidak
+Laki-laki,25 s.d. 35 tahun,S2,Staf non-manajerial,Ya,Sektor Riil,,Pengangkutan dan Pergudangan,Ya,Tidak,Tidak
